@@ -39,9 +39,10 @@
   <a href="https://www.youtube.com/channel/UC_Od4xKeqqLJUfM9h4Gk3Sg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:guillermo.penaranda@utp.edu.co"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guillermo-penaranda-hernandez-26a624219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
 </div>
 
+  ![Snake animation](https://github.com/guille1999utp/guille1999utp/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **guille1999utp/guille1999utp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
