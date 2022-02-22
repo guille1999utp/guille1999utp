@@ -6,7 +6,6 @@
 ### Mas acerca de Mi
 - 🌱 Actualmente estoy estudiando <b>Python</b>,<b>Aws</b>,<b>Django</b>,<b>Babel Y Webpack</b>
 - 💬 Preguntame acerca de  <b>Javascript</b>,<b>ReactJs</b>,<b>Nodejs</b>,<b>Flutter</b>,<b>Mongodb Y SocketsIo</b>
-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guille1999utp&color=green" alt="Profile views" /> </p>
 <div> 
 <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=guille1999utp&layout=compact)](https://github.com/anuraghazra/github-readme-stats'/>
