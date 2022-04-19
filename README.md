@@ -1,5 +1,5 @@
 ### Hola, Soy Guillermo 👋
-##### Soy un fullstack junior cn ganas de aprender cada dia algo nuevo en este mundo de la programacion 👽🧠, tengo ciertos conocimientos para poder desarrollar aplicaciones robustas y de gran tamaño en lenguajes como react y nodejs 😱😱😱.
+##### Soy un fullstack junior con ganas de aprender cada dia algo nuevo en este mundo de la programacion 👽🧠, tengo ciertos conocimientos para poder desarrollar aplicaciones robustas y de gran tamaño en lenguajes como react y nodejs 😱😱😱.
 ### Pasatiempos
 ##### Me gusta mucho salir los fines de semana con mis amigos 🤙👖🤙👖🤙, ver series de netflix 🎬, jugar videojuegos 🎮😄, salir a trotar de vez en cuando 🤸‍♂️, leer historietas 📚, estudiar entre semana temas relacionados a mi universidad 🧠🧠, tambien me gusta mucho pasar el rato en familia cada momento que se pueda ⌚😍.
 
