@@ -4,7 +4,7 @@
 ##### Me gusta mucho salir los fines de semana con mis amigos 🤙👖🤙👖🤙, ver series de netflix 🎬, jugar videojuegos 🎮😄, salir a trotar de vez en cuando 🤸‍♂️, leer historietas 📚, estudiar entre semana temas relacionados a mi universidad 🧠🧠, tambien me gusta mucho pasar el rato en familia cada momento que se pueda ⌚😍.
 
 ### Mas acerca de Mi
-- 🌱 Actualmente estoy estudiando <b>Python</b>,<b>Aws</b>,<b>Django</b>,<b>Babel Y Webpack</b>
+- 🌱 Actualmente estoy estudiando <b>Python</b>,<b>Aws</b>,<b>Django</b>,<b>Babel Y Webpack</b><b>Docker</b><b>Kubernets</b>
 - 💬 Preguntame acerca de  <b>Javascript</b>,<b>ReactJs</b>,<b>Nodejs</b>,<b>Flutter</b>,<b>Mongodb Y SocketsIo</b>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guille1999utp&color=green" alt="Profile views" /> </p>
 <div> 
