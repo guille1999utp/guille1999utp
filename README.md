@@ -36,7 +36,7 @@
   <hr>
   <h3>Contacta Conmigo:</h3>
 <div> 
-  <a href=https://www.youtube.com/channel/UC6SU819ZoX33Dlva4llhkQQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UC6SU819ZoX33Dlva4llhkQQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:guillermo.penaranda@utp.edu.co"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guillermo-penaranda-hernandez-26a624219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
